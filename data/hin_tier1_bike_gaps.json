@@ -1,0 +1,86 @@
+[
+  {
+    "street": "COLFAX AVE",
+    "bike_crashes": 126,
+    "ksi": 16,
+    "pct_on_bike_infra": 4.8,
+    "crashes_near_protected": 0
+  },
+  {
+    "street": "16TH AVE",
+    "bike_crashes": 92,
+    "ksi": 8,
+    "pct_on_bike_infra": 7.6,
+    "crashes_near_protected": 0
+  },
+  {
+    "street": "BROADWAY",
+    "bike_crashes": 85,
+    "ksi": 7,
+    "pct_on_bike_infra": 25.9,
+    "crashes_near_protected": 17
+  },
+  {
+    "street": "FEDERAL BLVD",
+    "bike_crashes": 69,
+    "ksi": 7,
+    "pct_on_bike_infra": 11.6,
+    "crashes_near_protected": 0
+  },
+  {
+    "street": "COLORADO BLVD",
+    "bike_crashes": 49,
+    "ksi": 6,
+    "pct_on_bike_infra": 0.0,
+    "crashes_near_protected": 0
+  },
+  {
+    "street": "SPEER BLVD",
+    "bike_crashes": 49,
+    "ksi": 4,
+    "pct_on_bike_infra": 55.1,
+    "crashes_near_protected": 1
+  },
+  {
+    "street": "LINCOLN ST",
+    "bike_crashes": 42,
+    "ksi": 8,
+    "pct_on_bike_infra": 0.0,
+    "crashes_near_protected": 0
+  },
+  {
+    "street": "ALAMEDA AVE",
+    "bike_crashes": 40,
+    "ksi": 4,
+    "pct_on_bike_infra": 50.0,
+    "crashes_near_protected": 9
+  },
+  {
+    "street": "13TH AVE",
+    "bike_crashes": 26,
+    "ksi": 2,
+    "pct_on_bike_infra": 30.8,
+    "crashes_near_protected": 0
+  },
+  {
+    "street": "PARK AVE",
+    "bike_crashes": 26,
+    "ksi": 6,
+    "pct_on_bike_infra": 7.7,
+    "crashes_near_protected": 0
+  },
+  {
+    "street": "14TH AVE",
+    "bike_crashes": 21,
+    "ksi": 5,
+    "pct_on_bike_infra": 14.3,
+    "crashes_near_protected": 0
+  },
+  {
+    "street": "EVANS AVE",
+    "bike_crashes": 18,
+    "ksi": 3,
+    "pct_on_bike_infra": 0.0,
+    "crashes_near_protected": 0
+  }
+]

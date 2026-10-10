@@ -1,0 +1,45 @@
+{
+  "total_bike_crashes": 3521,
+  "with_coordinates": 3450,
+  "on_any_bike_infra": {
+    "n": 689,
+    "pct": 20.0
+  },
+  "on_infra_time_aware": {
+    "n": 479,
+    "pct": 13.9
+  },
+  "on_protected_lane": {
+    "n": 211,
+    "pct": 6.1
+  },
+  "by_facility_type": {
+    "Shared Sidewalk": 214,
+    "Protected Bike Lane": 211,
+    "Trail": 100,
+    "Neighborhood Bikeway": 47,
+    "Bike Lane": 65,
+    "Car-Free Street": 13,
+    "Shared Street": 7,
+    "Buffered Bike Lane": 32
+  },
+  "hit_and_run": {
+    "n": 854,
+    "pct": 24.3
+  },
+  "on_hin": {
+    "n": 1376,
+    "pct": 39.9,
+    "tier1_pct": 23.2,
+    "tier2_pct": 16.7
+  },
+  "fast_arterials_35plus": {
+    "n": 525,
+    "ksi": 60,
+    "ksi_rate": 0.1143,
+    "on_bike_n": 124,
+    "on_bike_pct": 23.6,
+    "on_protected_n": 20,
+    "on_protected_pct": 3.8
+  }
+}

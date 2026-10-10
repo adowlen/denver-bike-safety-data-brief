@@ -1,0 +1,27 @@
+{
+  "25": {
+    "crashes": 1815,
+    "ksi": 138,
+    "ksi_rate_pct": 7.6
+  },
+  "30": {
+    "crashes": 901,
+    "ksi": 85,
+    "ksi_rate_pct": 9.43
+  },
+  "35": {
+    "crashes": 381,
+    "ksi": 46,
+    "ksi_rate_pct": 12.07
+  },
+  "40+": {
+    "crashes": 171,
+    "ksi": 15,
+    "ksi_rate_pct": 8.77
+  },
+  "unknown": {
+    "crashes": 182,
+    "ksi": 8,
+    "ksi_rate_pct": 4.4
+  }
+}
