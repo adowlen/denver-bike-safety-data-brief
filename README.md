@@ -29,3 +29,11 @@ All from Denver's Open Data Catalog (ArcGIS Hub):
 3. Run `python code/make_charts.py` for the charts
 
 Requires Python 3 with geopandas, shapely, matplotlib.
+
+## Methods and data
+
+The public datasets listed under Data sources are analyzed with [code/analyze.py](code/analyze.py) and [code/analyze_v2.py](code/analyze_v2.py); charts are generated with [code/make_charts.py](code/make_charts.py). Aggregate outputs are in the JSON files in [data/](data/). Point-level crash coordinates are withheld, as noted under Contents.
+
+## Part of Machine Readable
+
+This brief is part of [Machine Readable](https://github.com/adowlen/machine-readable), the catalog of all Machine Readable briefs.
