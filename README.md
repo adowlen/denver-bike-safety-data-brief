@@ -37,3 +37,10 @@ The public datasets listed under Data sources are analyzed with [code/analyze.py
 ## Part of Machine Readable
 
 This brief is part of [Machine Readable](https://adowlen.github.io/machine-readable/), the catalog of all Machine Readable briefs.
+
+
+## Reuse and citation
+
+This brief is free to cite, quote, and reuse under the CC BY 4.0 license (see LICENSE). If you use it, please credit Machine Readable and link back to this repository.
+
+Attribution line: Machine Readable (Alex Dowlen), https://github.com/adowlen/denver-bike-safety-data-brief
