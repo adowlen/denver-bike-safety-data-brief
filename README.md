@@ -36,4 +36,4 @@ The public datasets listed under Data sources are analyzed with [code/analyze.py
 
 ## Part of Machine Readable
 
-This brief is part of [Machine Readable](https://github.com/adowlen/machine-readable), the catalog of all Machine Readable briefs.
+This brief is part of [Machine Readable](https://adowlen.github.io/machine-readable/), the catalog of all Machine Readable briefs.
